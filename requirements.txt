@@ -1,5 +1,5 @@
 pandas
-statsmodels.api
+statsmodels
 numpy
 matplotlib
 plotly
