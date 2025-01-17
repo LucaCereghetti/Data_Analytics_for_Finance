@@ -1,5 +1,4 @@
 pandas
-statsmodels
 numpy
 matplotlib
 plotly
