@@ -2,4 +2,4 @@ pandas
 statsmodels
 numpy
 matplotlib
-plotly.graph
+plotly
